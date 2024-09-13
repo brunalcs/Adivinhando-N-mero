@@ -14,10 +14,16 @@ Você precisa ter o Python instalado em sua máquina.
 
 ## Exemplo de uso 
 Escolha um número: 50
+
 O número secreto é menor
+
 Escolha um número: 25
+
 O número secreto é maior
+
 Escolha um número: 37
+
 Parabéns, você acertou o número!!
+
 Você conseguiu em 3 tentativas.
 
